@@ -51,7 +51,7 @@ public class FiretruckSimulator extends JFrame {
 
     // Constructor
     public FiretruckSimulator() {
-        super("Firetruck Multi-Stop Simulator (Dijkstra)");
+        super("Firetruck Multi-Stop Simulator (Dijkstra) - by Sushmitha Bandaru");
         this.graph = createSampleGraph();
 
         initComponents();
